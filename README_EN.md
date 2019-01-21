@@ -1,6 +1,6 @@
 MEXDM-official-api-docs
 ==================================================
-[MEXDM][]Developer Documentation([English Docs][])
+[MEXDM][]Developer Documentation([简体中文版文档][])
 
 <!-- TOC -->
 
@@ -767,5 +767,5 @@ When a rate limit is exceeded, a status of 429 Too Many Requests will be returne
 
 
 [MEXDM]: https://www.mexdm.com 
-[English Docs]: https://github.com/mexdm/mexdm-api-docs/blob/master/README_EN.md
+[简体中文版文档]: https://github.com/mexdm/mexdm-api-docs/blob/master/README_EN.md
 [Unix Epoch]: https://en.wikipedia.org/wiki/Unix_time
