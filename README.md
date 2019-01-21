@@ -768,5 +768,5 @@ HTTP状态码200表示成功响应，并可能包含内容。如果响应含有�
 
 
 [MEXDM]: https://www.mexdm.com 
-[English Docs]: https://github.com/mexdm/mexdm-official-api-docs/blob/master/README_EN.md
+[English Docs]: https://github.com/mexdm/mexdm-api-docs/blob/master/README_EN.md
 [Unix Epoch]: https://en.wikipedia.org/wiki/Unix_time
